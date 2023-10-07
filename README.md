@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Tabla de contenido
 
-## Getting Started
+- [Resumen](#resumen)
+  - [Enlaces](#enlaces)
+- [Mi proceso](#mi-proceso)
+  - [Construido con](#construido-con)
+- [Autor](#autor)
 
-First, run the development server:
+## Resumen
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Enlaces
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- URL de la solución: [GitHub](https://github.com/AndreDev12/next-portfolio)
+- URL del sitio activo: [Vercel]()
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Mi proceso
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Construido con
 
-## Learn More
+- [Next.js](https://nextjs.org/) - Marco React
+- [TypeScript](https://www.typescriptlang.org/) - Lenguaje de programación
+- [Material UI](https://mui.com/material-ui/) - Biblioteca de componentes
+- [Tailwind CSS](https://tailwindcss.com/) - Marco CSS
+- [React-icons](https://www.npmjs.com/package/react-icons) - Paquete de íconos populares
+- [Typed.js](https://www.npmjs.com/package/typed.js) - Biblioteca de animación de escritura de JavaScript
 
-To learn more about Next.js, take a look at the following resources:
+## Autor
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- LinkedIn - [Héctor André Huambachano Torres](https://www.linkedin.com/in/h%C3%A9ctor-andr%C3%A9-huambachano-torres/)
+- Twitter - [@HectorAndreHT](https://twitter.com/HectorAndreHT)
